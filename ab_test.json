@@ -1,0 +1,8 @@
+{
+  "isbn": "323456",
+  "title": "Book 3",
+  "author": {
+      "firstname": "James",
+      "lastname": "Smith"
+  }
+}
